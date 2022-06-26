@@ -169,4 +169,13 @@ h3 {
     .small {
        width: 330px; 
     }
+
+    header h1 {
+        font-size: 25px;
+    }
+
+    header div ul {
+        font-size: 12px;
+        display: block;
+    }
 }
