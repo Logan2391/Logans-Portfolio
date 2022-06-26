@@ -121,7 +121,47 @@ h3 {
     flex-wrap: wrap;
 }
 
-.small {
+.small1 {
+    height: 150px;
+    width: 380px;
+    background-color: #3e6193;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.small2 {
+    height: 150px;
+    width: 380px;
+    background-image: url(./images/1587852538115.jpeg);
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.small3 {
+    height: 150px;
+    width: 380px;
+    background-color: #3e6193;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.small4 {
+    height: 150px;
+    width: 380px;
+    background-color: #3e6193;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.small5 {
+    height: 150px;
+    width: 380px;
+    background-color: #3e6193;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.small6 {
     height: 150px;
     width: 380px;
     background-color: #3e6193;
@@ -133,7 +173,13 @@ h3 {
 
 
 
-/* Media Query*/
+/* Media Query */
+@media screen and (max-width:  1708px) {
+    .smallApps {
+        float: left;
+        margin-top: 10px;
+    }
+}
 
 @media screen and (max-width: 1200px) {
     header div ul {
@@ -150,12 +196,7 @@ h3 {
   }
 }
 
-@media screen and (max-width:  1708px) {
-    .smallApps {
-        float: left;
-        margin-top: 10px;
-    }
-}
+
 
 @media screen and (max-width: 768px) {
     .workApp1{
@@ -166,10 +207,6 @@ h3 {
        width: 700px; 
     }
 
-    .small {
-       width: 330px; 
-    }
-
     header h1 {
         font-size: 25px;
     }
@@ -178,4 +215,75 @@ h3 {
         font-size: 12px;
         display: block;
     }
+
+    .smallApps {
+        width: 335px;
+        height: 970px;
+    }
+}
+
+/* CellPhone View */
+
+@media screen and (max-width:745px) {
+    * {
+        margin-left: 0px;
+    }
+    
+    header h1 {
+        font-size: 10px;
+    }
+
+/* Header */
+
+    header div ul {
+        font-size: 5px;
+        display: flex;
+        flex-direction: row;
+        margin: 0px;
+    }
+
+    header div {
+        margin-right: 0px;
+        float: right;
+        font-size: px;
+        padding-top: 9px;
+    }
+
+/* About Me Section */
+
+      .aboutMeImg {
+        height: 250px;
+        width: 200px;
+        margin-right: 0px;
+        
+     }
+
+     .aboutMeText {
+        font-size: 12px;
+     }
+
+     h2 {
+        font-size: 15px;
+        text-align: center;
+     }
+
+/* Work Section */
+     h3 {
+        font-size: 20px;
+     }
+
+     .workApp1 {
+        width: 380px;
+     }
+
+     .trail {
+        font-size: 20px;
+        height: 35px;
+        margin-top: 471px;
+     }
+
+     .smallApps {
+        width: 335px;
+        height: 970px;
+     }
 }
