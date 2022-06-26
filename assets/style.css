@@ -124,7 +124,8 @@ h3 {
 .small1 {
     height: 150px;
     width: 380px;
-    background-color: #3e6193;
+    background-image: url(./images/migration.jpg);
+    background-position: 0%;
     margin-top: 5px;
     margin-left: 10px;
 }
@@ -132,7 +133,9 @@ h3 {
 .small2 {
     height: 150px;
     width: 380px;
-    background-image: url(./images/1587852538115.jpeg);
+    background-image: url(./images/star.jpeg);
+    background-size: contain;
+    background-position: 0%;
     margin-top: 5px;
     margin-left: 10px;
 }
@@ -140,7 +143,8 @@ h3 {
 .small3 {
     height: 150px;
     width: 380px;
-    background-color: #3e6193;
+    background-image: url(./images/Moab.jpg);
+    background-size: cover;
     margin-top: 5px;
     margin-left: 10px;
 }
@@ -148,7 +152,8 @@ h3 {
 .small4 {
     height: 150px;
     width: 380px;
-    background-color: #3e6193;
+    background-image: url(./images/hot\ springs.jpg);
+    background-size: cover;
     margin-top: 5px;
     margin-left: 10px;
 }
@@ -156,7 +161,8 @@ h3 {
 .small5 {
     height: 150px;
     width: 380px;
-    background-color: #3e6193;
+    background-image: url(./images/rafting.jpg);
+    background-size: cover;
     margin-top: 5px;
     margin-left: 10px;
 }
@@ -164,9 +170,18 @@ h3 {
 .small6 {
     height: 150px;
     width: 380px;
-    background-color: #3e6193;
+    background-image: url(./images/overlanding.jpg);
+    background-size: cover;
     margin-top: 5px;
     margin-left: 10px;
+}
+
+.placement {
+    background-color: #3e6193;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 122px;
+    margin-left: 0px;
 }
 
 /* Contact Me footer*/
