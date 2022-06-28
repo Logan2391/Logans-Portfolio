@@ -81,6 +81,8 @@ h3 {
     text-align: center;  
     margin-bottom: 10px;
     margin-top: 10px;
+    text-decoration: underline;
+    color: #3e6193;
 }
 
 .workApp1{
@@ -109,7 +111,7 @@ h3 {
     cursor: pointer;
 }
 
-/* Small Apps */
+/* Small Apps (aside) */
 
 .smallApps {
     height: 479px;
@@ -185,6 +187,12 @@ h3 {
 }
 
 /* Contact Me footer*/
+
+.contactMe {
+    font-size: 35px;
+    text-decoration: underline;
+    color: #3e6193;
+}
 
 
 
@@ -302,3 +310,6 @@ h3 {
         height: 970px;
      }
 }
+
+/* Conatct Me */
+
