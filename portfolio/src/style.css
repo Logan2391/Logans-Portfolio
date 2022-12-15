@@ -1,0 +1,43 @@
+body {
+    background-image: url('./images/AdobeStock_529873767-min.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a {
+   text-decoration: none;
+   color: whitesmoke;
+}
+
+.full-page-grid {
+    display: grid;
+    grid-template-rows: auto 1fr auto
+}
+
+@font-face {
+    font-family: 'Chronosfer';
+    src: url('./fonts/GroupeMedium-8MXgn.otf') format('truetype');
+ }
+
+ @font-face {
+    font-family: 'Quantum';
+    src: url('./fonts/Quantum-eZOXg.ttf') format('truetype');
+ }
+
+ @font-face {
+    font-family: 'NuKei';
+    src: url('./fonts/NuKei-0WW9P.ttf') format('truetype');
+ }
+
+ .chronosfer {
+    font-family: 'Chronosfer';
+ }
+
+ .quantum {
+    font-family: 'Quantum';
+ }
+
+ .NuKei {
+    font-family: 'NuKei';
+ }
