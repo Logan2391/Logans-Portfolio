@@ -1,0 +1,67 @@
+.projects-main-title {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+    text-align: center;
+    color: var(--textColor);
+    font-family: var(--secondFont);
+}
+
+.main-project {
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.main-image {
+    border-radius: 5px;
+    box-shadow: 1px 9px 11px 3px rgba(0, 0, 0, 0.69);
+    -webkit-box-shadow: 1px 9px 11px 3px rgba(0, 0, 0, 0.69);
+    -moz-box-shadow: 1px 9px 11px 3px rgba(0, 0, 0, 0.69);
+    margin-bottom: 1.5rem;
+}
+
+.main-description {
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    color: var(--textColor);
+    font-family: var(--primFont);
+    text-align: center;
+}
+
+.project-btns {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3.5rem;
+}
+
+.main-btns {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border: 2px solid #000;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: var(--textColor);
+    font-family: var(--secondFont);
+    cursor: pointer;
+}
+
+.lesser-projects {
+    width: 70vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 4rem;
+    margin-bottom: 3.5rem;
+}
+
+.last-project {
+    width: 40vw;
+    margin: 0 auto;
+}

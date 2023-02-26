@@ -1,0 +1,57 @@
+/* Global styles */
+
+:root {
+  --h1Color: #a7a7a7;
+  --textColor: #000000;
+  --primFont: 'Cerebri Sans', sans-serif;
+  --secondFont: 'Breadley';
+
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.container {
+  max-width: 85vw;
+  margin: 0 auto;
+}
+
+/* Base resets*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Fonts */
+
+@font-face {
+  font-family: 'Breadley';
+  src: url('./fonts/BrusselsCityPersonalUsed-L3Lon.otf') format('truetype');
+}

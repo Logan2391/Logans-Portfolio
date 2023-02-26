@@ -1,0 +1,82 @@
+.header-text {
+    font-size: 3.75rem;
+    font-weight: 300;
+    line-height: 1.1;
+    font-family: var(--secondFont);
+}
+
+.grid-home-self {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    margin-top: 6%;
+    font-family: var(--secondFont);
+}
+
+.self-img {
+    grid-column: 2 / 2;
+}
+
+.left-grid {
+    grid-column: 1 / 1;
+    display: grid;
+    gap: 1rem;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.right-grid {
+    grid-column: 3 / 3;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    justify-content: end;
+    text-align: center;
+}
+
+.prof-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    padding-left: 3%;
+    font-size: 1rem;
+}
+
+.prof-title {
+    margin-bottom: 8%;
+    font-family: var(--primFont);
+    font-weight: 500;
+    font-size: 1.1rem;
+    color: var(--h1Color);
+    text-transform: uppercase;
+}
+
+.right-title {
+    margin-bottom: 8%;
+    font-family: var(--primFont);
+    font-weight: 500;
+    color: var(--h1Color);
+    font-size: 1.1rem;
+    text-transform: uppercase;
+}
+
+.right-description {
+    font-size: 3rem;
+
+}
+
+.resume-download-title {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    color: var(--h1Color);
+    font-family: var(--primFont);
+    text-transform: uppercase;
+}
+
+.download {
+    text-align: center;
+    margin-top: 1rem;
+    font-family: var(--secondFont);
+    font-weight: 500;
+    font-size: 1.5rem;
+    cursor: pointer;
+}

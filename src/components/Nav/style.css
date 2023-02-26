@@ -1,0 +1,47 @@
+.nav-container {
+  max-width: 85vw;
+  margin: auto auto 6% auto;
+  font-family: var(--primFont);
+}
+
+.grid-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  line-height: 12.5rem;
+  text-transform: uppercase;
+}
+
+.font-nav {
+  font-size: .9rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 1rem;
+}
+
+.menu-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: .5rem;
+}
+
+.middle-brand {
+  max-width: 7rem;
+  margin: 0 auto;
+  align-self: center;
+}
+
+.social-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: .5rem;
+}
+
+.social-font {
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.nav-icon {
+  cursor: pointer;
+}
