@@ -5,6 +5,12 @@
     font-family: var(--secondFont);
 }
 
+@media screen and (max-width: 768px) {
+    .header-text {
+        font-size: 2.5rem;
+    }
+}
+
 .grid-home-self {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -40,6 +46,13 @@
     font-size: 1rem;
 }
 
+@media screen and (max-width: 768px) {
+    .prof-list {
+        font-size: .74rem;
+    }
+}
+
+
 .prof-title {
     margin-bottom: 8%;
     font-family: var(--primFont);
@@ -48,6 +61,13 @@
     color: var(--h1Color);
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+    .prof-title {
+        font-size: .9rem;
+    }
+}
+
 
 .right-title {
     margin-bottom: 8%;
@@ -72,6 +92,19 @@
     text-transform: uppercase;
 }
 
+@media screen and (max-width: 768px) {
+    .resume-download-title {
+        font-size: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .right-description {
+        font-size: 2rem;
+    }
+}
+
 .download {
     text-align: center;
     margin-top: 1rem;
@@ -79,4 +112,10 @@
     font-weight: 500;
     font-size: 1.5rem;
     cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .download {
+        font-size: 1rem;
+    }
 }

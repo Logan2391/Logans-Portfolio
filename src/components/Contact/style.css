@@ -1,0 +1,43 @@
+.contact-title {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+    text-align: center;
+    color: var(--textColor);
+    font-family: var(--secondFont);
+}
+
+.contact-info-grid {
+    display: grid;
+    gap: .5rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin-bottom: 3.5rem;
+    color: var(--textColor);
+    font-family: var(--primFont);
+    text-align: center;
+}
+
+.phone-contact {
+    grid-column: 1 / 1;
+    grid-row: 2 / 2;
+}
+
+.sub-contact-title {
+    font-size: 1.1rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.linkedin-contact {
+    grid-column: 2 / 2;
+    grid-row: 2 / 2;
+    font-size: 1.2rem;
+}
+
+.email-contact {
+    grid-column: 3 / 3;
+    grid-row: 2 / 2;
+}

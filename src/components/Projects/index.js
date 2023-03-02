@@ -1,10 +1,9 @@
 import './style.css';
-import "animate.css/animate.min.css";
-import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Watch from '../../images/Watch.png';
 import Curr from '../../images/currencyConvertorProject.png';
 import Weather from '../../images/screenshot.weather.png'
 import LogansList from '../../images/LogansList.png'
+import MockSite from '../../images/mocksite.png'
 
 function Projects() {
 
@@ -54,8 +53,6 @@ function Projects() {
                             <a className='main-btns' href='https://logan2391.github.io/updatedExchange/' target='_blank'>Visit the Live Page</a>
                         </div>
                     </div>
-                </div>
-                <div className='last-project'>
                     <div>
                         <img className='main-image' src={Weather} alt='Watches Co watch technical specifications screen' />
                         <p className='main-description'>With this webpage you're be able to search any city or country in the world
@@ -63,6 +60,14 @@ function Projects() {
                         <div className='project-btns'>
                             <a className='main-btns' href='https://github.com/Logan2391/WeatherDashboard' target='_blank'>Visit the Repository</a>
                             <a className='main-btns' href='https://logan2391.github.io/WeatherDashboard/' target='_blank'>Visit the Live Page</a>
+                        </div>
+                    </div>
+                    <div>
+                        <img className='main-image' src={MockSite} alt='Watches Co watch technical specifications screen' />
+                        <p className='main-description'>This is a mock website intended to demonstrate my ability to build a responsive website from the ground up.</p>
+                        <div className='project-btns'>
+                            <a className='main-btns' href='https://github.com/Logan2391/Mock-Web-Design-LAM' target='_blank'>Visit the Repository</a>
+                            <a className='main-btns' href='https://logan2391.github.io/Mock-Web-Design-LAM/' target='_blank'>Visit the Live Page</a>
                         </div>
                     </div>
                 </div>

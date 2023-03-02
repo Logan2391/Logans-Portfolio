@@ -1,5 +1,9 @@
 /* Global styles */
 
+html,body{
+  overflow-x: visible;
+}
+
 :root {
   --h1Color: #a7a7a7;
   --textColor: #000000;

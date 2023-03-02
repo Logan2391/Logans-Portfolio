@@ -45,3 +45,14 @@
 .nav-icon {
   cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+  .font-nav {
+    font-size: .79rem;
+  }
+
+  .middle-brand {
+    max-width: 6rem;
+  }
+}
+  

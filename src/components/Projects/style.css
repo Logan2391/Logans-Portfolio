@@ -52,6 +52,24 @@
     cursor: pointer;
 }
 
+.main-btns:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+@media (max-width: 1330px) {
+    .main-btns {
+       font-size: .8rem;
+    }
+}
+
+@media (max-width: 844px) {
+    .main-btns {
+       font-size: .6rem;
+    }
+}
+
+
 .lesser-projects {
     width: 70vw;
     margin: 0 auto;

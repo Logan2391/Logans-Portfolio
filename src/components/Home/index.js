@@ -1,5 +1,5 @@
 import Self from '../../images/self.png';
-import PDF from '../../images/Resume-Logan Schoerner.pdf'
+import PDF from '../../images/Resume.pdf'
 import './style.css';
 
 function Home() {
@@ -60,7 +60,7 @@ function Home() {
                     </div>
                     <div>
                         <h1 className='right-title'>Projects Completed</h1>
-                        <p className='right-description'>4</p>
+                        <p className='right-description'>5</p>
                     </div>
                 </div>
             </div>
