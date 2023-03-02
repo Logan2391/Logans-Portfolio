@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/www.loganschoerner-dev.com/static/css/main.5bcb2d75.css",
+    "main.js": "/www.loganschoerner-dev.com/static/js/main.42e2d975.js",
+    "static/media/currencyConvertorProject.png": "/www.loganschoerner-dev.com/static/media/currencyConvertorProject.5dcf878e1c663331572d.png",
+    "static/media/self.png": "/www.loganschoerner-dev.com/static/media/self.53abc128bb7bf6aa6d23.png",
+    "static/media/mocksite.png": "/www.loganschoerner-dev.com/static/media/mocksite.03c203b16f71409f870b.png",
+    "static/media/LogansList.png": "/www.loganschoerner-dev.com/static/media/LogansList.5322d0a018a1cf42317f.png",
+    "static/media/brand.png": "/www.loganschoerner-dev.com/static/media/brand.5c67385daf5c3b9a3b57.png",
+    "static/media/Watch.png": "/www.loganschoerner-dev.com/static/media/Watch.11eed303e72ef34933ff.png",
+    "static/media/Resume.pdf": "/www.loganschoerner-dev.com/static/media/Resume.5f4ffd5218e52854194b.pdf",
+    "static/media/screenshot.weather.png": "/www.loganschoerner-dev.com/static/media/screenshot.weather.d0afa1c83b86fec72e54.png",
+    "static/media/BrusselsCityPersonalUsed-L3Lon.otf": "/www.loganschoerner-dev.com/static/media/BrusselsCityPersonalUsed-L3Lon.d761af135d44190ffb0b.otf",
+    "index.html": "/www.loganschoerner-dev.com/index.html",
+    "main.5bcb2d75.css.map": "/www.loganschoerner-dev.com/static/css/main.5bcb2d75.css.map",
+    "main.42e2d975.js.map": "/www.loganschoerner-dev.com/static/js/main.42e2d975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bcb2d75.css",
+    "static/js/main.42e2d975.js"
+  ]
+}
