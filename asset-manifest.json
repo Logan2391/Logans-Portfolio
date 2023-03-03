@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/loganschoerner-dev.com/static/css/main.0b51cdaa.css",
-    "main.js": "/loganschoerner-dev.com/static/js/main.8b4e2d6c.js",
-    "static/media/currencyConvertorProject.png": "/loganschoerner-dev.com/static/media/currencyConvertorProject.5dcf878e1c663331572d.png",
-    "static/media/self.png": "/loganschoerner-dev.com/static/media/self.53abc128bb7bf6aa6d23.png",
-    "static/media/mocksite.png": "/loganschoerner-dev.com/static/media/mocksite.03c203b16f71409f870b.png",
-    "static/media/LogansList.png": "/loganschoerner-dev.com/static/media/LogansList.5322d0a018a1cf42317f.png",
-    "static/media/brand.png": "/loganschoerner-dev.com/static/media/brand.5c67385daf5c3b9a3b57.png",
-    "static/media/Watch.png": "/loganschoerner-dev.com/static/media/Watch.11eed303e72ef34933ff.png",
-    "static/media/Resume.pdf": "/loganschoerner-dev.com/static/media/Resume.5f4ffd5218e52854194b.pdf",
-    "static/media/screenshot.weather.png": "/loganschoerner-dev.com/static/media/screenshot.weather.d0afa1c83b86fec72e54.png",
-    "static/media/BrusselsCityPersonalUsed-L3Lon.otf": "/loganschoerner-dev.com/static/media/BrusselsCityPersonalUsed-L3Lon.d761af135d44190ffb0b.otf",
-    "index.html": "/loganschoerner-dev.com/index.html",
-    "main.0b51cdaa.css.map": "/loganschoerner-dev.com/static/css/main.0b51cdaa.css.map",
-    "main.8b4e2d6c.js.map": "/loganschoerner-dev.com/static/js/main.8b4e2d6c.js.map"
+    "main.css": "/Logans-Portfolio/static/css/main.4cbcbb27.css",
+    "main.js": "/Logans-Portfolio/static/js/main.bba78c4f.js",
+    "static/media/currencyConvertorProject.png": "/Logans-Portfolio/static/media/currencyConvertorProject.5dcf878e1c663331572d.png",
+    "static/media/self.png": "/Logans-Portfolio/static/media/self.53abc128bb7bf6aa6d23.png",
+    "static/media/mocksite.png": "/Logans-Portfolio/static/media/mocksite.03c203b16f71409f870b.png",
+    "static/media/LogansList.png": "/Logans-Portfolio/static/media/LogansList.5322d0a018a1cf42317f.png",
+    "static/media/brand.png": "/Logans-Portfolio/static/media/brand.5c67385daf5c3b9a3b57.png",
+    "static/media/Watch.png": "/Logans-Portfolio/static/media/Watch.11eed303e72ef34933ff.png",
+    "static/media/Resume.pdf": "/Logans-Portfolio/static/media/Resume.5f4ffd5218e52854194b.pdf",
+    "static/media/screenshot.weather.png": "/Logans-Portfolio/static/media/screenshot.weather.d0afa1c83b86fec72e54.png",
+    "static/media/BrusselsCityPersonalUsed-L3Lon.otf": "/Logans-Portfolio/static/media/BrusselsCityPersonalUsed-L3Lon.d761af135d44190ffb0b.otf",
+    "index.html": "/Logans-Portfolio/index.html",
+    "main.4cbcbb27.css.map": "/Logans-Portfolio/static/css/main.4cbcbb27.css.map",
+    "main.bba78c4f.js.map": "/Logans-Portfolio/static/js/main.bba78c4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b51cdaa.css",
-    "static/js/main.8b4e2d6c.js"
+    "static/css/main.4cbcbb27.css",
+    "static/js/main.bba78c4f.js"
   ]
 }
