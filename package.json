@@ -1,8 +1,8 @@
 {
-  "name": "Logans-Portfolio",
+  "name": "logans-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "www.loganschoerner-dev.com",
+  "homepage": "https://www.loganschoerner-dev.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
