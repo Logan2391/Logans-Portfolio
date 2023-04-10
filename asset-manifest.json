@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Logans-Portfolio/static/css/main.4cbcbb27.css",
-    "main.js": "/Logans-Portfolio/static/js/main.d586b971.js",
+    "main.css": "/Logans-Portfolio/static/css/main.329c852d.css",
+    "main.js": "/Logans-Portfolio/static/js/main.bdb1dc63.js",
     "static/media/currencyConvertorProject.png": "/Logans-Portfolio/static/media/currencyConvertorProject.5dcf878e1c663331572d.png",
     "static/media/self.png": "/Logans-Portfolio/static/media/self.53abc128bb7bf6aa6d23.png",
     "static/media/mocksite.png": "/Logans-Portfolio/static/media/mocksite.03c203b16f71409f870b.png",
@@ -12,11 +12,11 @@
     "static/media/screenshot.weather.png": "/Logans-Portfolio/static/media/screenshot.weather.d0afa1c83b86fec72e54.png",
     "static/media/BrusselsCityPersonalUsed-L3Lon.otf": "/Logans-Portfolio/static/media/BrusselsCityPersonalUsed-L3Lon.d761af135d44190ffb0b.otf",
     "index.html": "/Logans-Portfolio/index.html",
-    "main.4cbcbb27.css.map": "/Logans-Portfolio/static/css/main.4cbcbb27.css.map",
-    "main.d586b971.js.map": "/Logans-Portfolio/static/js/main.d586b971.js.map"
+    "main.329c852d.css.map": "/Logans-Portfolio/static/css/main.329c852d.css.map",
+    "main.bdb1dc63.js.map": "/Logans-Portfolio/static/js/main.bdb1dc63.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cbcbb27.css",
-    "static/js/main.d586b971.js"
+    "static/css/main.329c852d.css",
+    "static/js/main.bdb1dc63.js"
   ]
 }
