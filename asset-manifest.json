@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Logans-Portfolio/static/css/main.329c852d.css",
-    "main.js": "/Logans-Portfolio/static/js/main.bdb1dc63.js",
+    "main.css": "/Logans-Portfolio/static/css/main.ce0d0853.css",
+    "main.js": "/Logans-Portfolio/static/js/main.aa639c57.js",
+    "static/media/self.png": "/Logans-Portfolio/static/media/self.c7eecfc2b0889e6d6388.png",
     "static/media/currencyConvertorProject.png": "/Logans-Portfolio/static/media/currencyConvertorProject.5dcf878e1c663331572d.png",
-    "static/media/self.png": "/Logans-Portfolio/static/media/self.53abc128bb7bf6aa6d23.png",
     "static/media/mocksite.png": "/Logans-Portfolio/static/media/mocksite.03c203b16f71409f870b.png",
     "static/media/LogansList.png": "/Logans-Portfolio/static/media/LogansList.5322d0a018a1cf42317f.png",
     "static/media/brand.png": "/Logans-Portfolio/static/media/brand.5c67385daf5c3b9a3b57.png",
@@ -12,11 +12,11 @@
     "static/media/screenshot.weather.png": "/Logans-Portfolio/static/media/screenshot.weather.d0afa1c83b86fec72e54.png",
     "static/media/BrusselsCityPersonalUsed-L3Lon.otf": "/Logans-Portfolio/static/media/BrusselsCityPersonalUsed-L3Lon.d761af135d44190ffb0b.otf",
     "index.html": "/Logans-Portfolio/index.html",
-    "main.329c852d.css.map": "/Logans-Portfolio/static/css/main.329c852d.css.map",
-    "main.bdb1dc63.js.map": "/Logans-Portfolio/static/js/main.bdb1dc63.js.map"
+    "main.ce0d0853.css.map": "/Logans-Portfolio/static/css/main.ce0d0853.css.map",
+    "main.aa639c57.js.map": "/Logans-Portfolio/static/js/main.aa639c57.js.map"
   },
   "entrypoints": [
-    "static/css/main.329c852d.css",
-    "static/js/main.bdb1dc63.js"
+    "static/css/main.ce0d0853.css",
+    "static/js/main.aa639c57.js"
   ]
 }
